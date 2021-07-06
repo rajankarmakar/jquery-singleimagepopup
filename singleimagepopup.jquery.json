@@ -1,0 +1,29 @@
+{
+  "name": "singleimagepopup",
+  "title": "Single Image Popup",
+  "description": "This is a simple Image popup Jquery plugin. With a very simple configuration, you can show a popup on your webpage. By the way, this plugin works after page load.",
+  "keywords": ["popup", "image overlay"],
+  "version": "1.0.0",
+  "author": {
+    "name": "Rajan Karmaker",
+    "url": "https://github.com/rajankarmakar/jquery-singleimagepopup/AUTHORS.txt"
+  },
+  "maintainers": [
+    {
+      "name": "Rajan Karmaker",
+      "email": "rajankarmakar2@gmail.com"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "GPLv2",
+      "url": "https://github.com/rajankarmakar/jquery-singleimagepopup/LICENSE.txt"
+    }
+  ],
+  "bugs": "https://github.com/rajankarmakar/jquery-singleimagepopup/issues",
+  "homepage": "https://github.com/rajankarmakar/jquery-singleimagepopup",
+  "docs": "https://github.com/rajankarmakar/jquery-singleimagepopup",
+  "dependencies": {
+    "jquery": ">=3.6.0"
+  }
+}
