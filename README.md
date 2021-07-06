@@ -2,10 +2,10 @@
 
 This is a simple Image popup Jquery plugin. With a very simple configuration, you can show a popup on your webpage. By the way, this plugin works after page load.
 
-**If you want to see, click the [DEMO](https://github.com/rajankarmakar/jquery-singleimagepopup).**
+**If you want to see, click the [DEMO](https://jquery-singleimagepopup.netlify.app/).**
 
 **Or you can see the screenshot below.**
-![Single Image Pupup Jquery Plugin Screenshot](/assets/images/sample.jpg)
+![Single Image Pupup Jquery Plugin Screenshot](/assets/images/demo.jpg)
 
 ---
 
@@ -25,19 +25,19 @@ After downloading the zip file, just unzip it into your desire location.
 
 ### Step #2
 
-Place this block of code before closing the </head> tag into your desire HTML file.
+Place this block of code before closing the `</head>` tag into your desire HTML file.
 
 ```tsx
 <link rel="stylesheet" href="assets/css/singleimagepopup.min.css" />
 ```
 
-Into the <body> tag place the code below.
+Into the `<body>` tag place the code below.
 
 ```tsx
 <div id="singleimagepopup"></div>
 ```
 
-And finally, before closing the </body> tag place this block of code as well.
+And finally, before closing the `</body>` tag place this block of code as well.
 
 ```tsx
 <script src="assets/js/jquery.min.js" crossorigin="anonymous"></script>
